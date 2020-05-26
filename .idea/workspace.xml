@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52990693-adbd-4263-90da-765b0bd6f273" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YbqduCkv7tCDyaHlw5eqsbXU4M" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Aminor_z" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Java Project\Java_Class\src\Aminor_z\lab10\resources\Images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Java Project\Java_Class\src\Aminor_z" />
+      <recent name="F:\Java Project\Java_Class\src\Aminor_z\lab10\resources" />
+      <recent name="F:\Java Project\Java_Class\src\zhuangdongling\lab6" />
+      <recent name="F:\Java Project\Java_Class\src\Lab4" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="p1" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Lab12">
+    <configuration name="Lab10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aminor_z.lab10.Lab10" />
+      <module name="Java_Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aminor_z.lab11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab11_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aminor_z.lab11.Lab11_1" />
+      <module name="Java_Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aminor_z.lab11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab11_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aminor_z.lab11.Lab11_2" />
+      <module name="Java_Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aminor_z.lab11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aminor_z.lab12.Lab12" />
+      <module name="Java_Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aminor_z.lab12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aminor_z.lab10.temp" />
+      <module name="Java_Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aminor_z.lab11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab12" />
+        <item itemvalue="Application.Lab11_2" />
+        <item itemvalue="Application.Lab11_1" />
+        <item itemvalue="Application.temp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52990693-adbd-4263-90da-765b0bd6f273" name="Default Changelist" comment="" />
+      <created>1583221731938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583221731938</updated>
+      <workItem from="1583221738071" duration="3756000" />
+      <workItem from="1583244187542" duration="6379000" />
+      <workItem from="1583298030082" duration="11124000" />
+      <workItem from="1583661411894" duration="347000" />
+      <workItem from="1583663925372" duration="345000" />
+      <workItem from="1583737094027" duration="8000" />
+      <workItem from="1584119753619" duration="21000" />
+      <workItem from="1584636313127" duration="130000" />
+      <workItem from="1586840270936" duration="5330000" />
+      <workItem from="1587023820683" duration="18027000" />
+      <workItem from="1587105368370" duration="12301000" />
+      <workItem from="1587720789522" duration="11000" />
+      <workItem from="1588211235358" duration="49000" />
+      <workItem from="1590324769979" duration="796000" />
+      <workItem from="1590325584460" duration="8699000" />
+      <workItem from="1590334559706" duration="3556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="151" key="#com.intellij.ide.util.MemberChooser" timestamp="1590335306246">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="618" y="151" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590335306246" />
+    <state x="165" y="299" width="439" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1583306476545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="165" y="299" width="439" height="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1583306476545" />
+    <state width="1493" height="215" key="GridCell.Tab.0.bottom" timestamp="1590338118866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590338118866" />
+    <state width="1493" height="215" key="GridCell.Tab.0.center" timestamp="1590338118866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590338118866" />
+    <state width="1493" height="215" key="GridCell.Tab.0.left" timestamp="1590338118866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590338118866" />
+    <state width="1493" height="215" key="GridCell.Tab.0.right" timestamp="1590338118866">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="215" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590338118866" />
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1590334529387">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590334529387" />
+    <state width="1493" height="260" key="GridCell.Tab.1.center" timestamp="1590334529387">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1590334529387" />
+    <state width="1493" height="260" key="GridCell.Tab.1.left" timestamp="1590334529387">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1590334529387" />
+    <state width="1493" height="260" key="GridCell.Tab.1.right" timestamp="1590334529387">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1590334529387" />
+    <state x="0" y="149" key="IDE.errors.dialog" timestamp="1587026417547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="149" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1587026417547" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1584119771738">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584119771738" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1583244246591">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583244246591" />
+    <state x="485" y="305" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1590332398411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="305" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1590332398411" />
+    <state x="178" y="22" key="new project wizard" timestamp="1588211281745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="22" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588211281745" />
+    <state x="486" y="194" width="672" height="677" key="run.anything.popup" timestamp="1590335866913">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="486" y="194" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590335866913" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1590337800550">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590337800550" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Aminor_z/lab11/Lab11_2.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="DrawLoader.queue" language="JAVA" custom="Aminor_z.lab10.DrawLoader" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
